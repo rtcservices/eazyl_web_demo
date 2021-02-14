@@ -1,9 +1,0 @@
-.ag-theme-alpine .ag-header-viewport .ag-header-row .ag-header-cell,
-.ag-theme-alpine .ag-body-viewport .ag-row .ag-cell.ag-cell-not-inline-editing {
-    border-right: 1px solid var(--ag-border-color, #babfc7);
-}
-.ag-theme-alpine .ag-body-viewport .ag-row .ag-cell.ag-cell-not-inline-editing.ag-cell {
-    font-size: 12px;
-    line-height: 14px;
-    padding-top: 5px;
-}
